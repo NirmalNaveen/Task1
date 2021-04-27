@@ -1,0 +1,7 @@
+filename = input("enter the filename:")
+filename_ext = filename.spilt(".")
+print("extension of the file is:" +filename_ext[-1])
+
+output:
+enter the filename:abc.py
+extension of the filename:python
